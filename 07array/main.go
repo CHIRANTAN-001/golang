@@ -18,6 +18,7 @@ func main() {
 
 	var vegList = [5]string{"potato", "beans", "mushroom"}
 
+	fmt.Println("Veg list is: ", vegList)
 	fmt.Println("Veg list is: ", len(vegList))
 
 }
